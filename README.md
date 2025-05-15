@@ -1,2 +1,3 @@
 # aws-cloudformation-deployment
-Repositorio para realizar el desarrollo de una arquitectura con Cloudformation de AWS 
+Proyecto que realiza un despliegue automatizado de una plantilla en aws con cloudformation.
+.
